@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
+import photo from '../assets/png/photo.png'
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    name: 'Saurabh Kumar',
+    title: "Senior Software Engineer",
+    desciption:"Experienced Software Engineer with 10+ years of building reliable, scalable systems across backend, MLOps, and AI-focused environments. I specialize in designing cloud-native architectures, APIs, and event-driven services, while integrating machine learning models and LLM pipelines into production. With hands-on delivery across AWS, Azure, and GCP, I combine infrastructure automation, observability, and security best practices to power high-performance platforms that support modern, data-driven applications.",
+    image: photo,
     resumePdf: resume
 }

@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name is Saurabh living in Irving, Texas.",
+    description2: "Senior Software engineer in Texas with over a decade of experience building backend systems, automating machine learning workflows, and deploying AI-powered features in production. My work sits at the intersection of scalable architecture, infrastructure-as-code, and model integration—whether that's powering real-time APIs, managing complex cloud platforms, or productionizing LLM applications. I enjoy solving hard system problems, optimizing performance, and shipping reliable tools that support fast-moving teams and intelligent products.",
     image: 2
 }
