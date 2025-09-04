@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name is Saurabh living in Irving, Texas.",
-    description2: "Senior Software engineer in Texas with over a decade of experience building backend systems, automating machine learning workflows, and deploying AI-powered features in production. My work sits at the intersection of scalable architecture, infrastructure-as-code, and model integration—whether that's powering real-time APIs, managing complex cloud platforms, or productionizing LLM applications. I enjoy solving hard system problems, optimizing performance, and shipping reliable tools that support fast-moving teams and intelligent products.",
+    description1: "My name is Moiz Ahmed",
+    description2: "ML/MLOps Engineer with over 10 years of expertise in building, deploying, and scaling ML/AI systems across multi-cloud platforms, specializing in automated ML lifecycle management, generative AI, and production integration with strong focus on system reliability, security, and business impact.",
     image: 2
 }

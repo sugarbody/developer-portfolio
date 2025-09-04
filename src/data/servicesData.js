@@ -4,20 +4,20 @@ import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
 import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
 import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
 
- 
+
 
 export const servicesData = [
-    {
-        id: 1,
-        title: ' Backend Development',
-        icon: <BiShoppingBag/>
-    },
     {
         id: 5,
         title: 'LLM/GenAI Development & Integration',
         icon: <FaChalkboardTeacher />
     },
-
+    {
+        id: 11,
+        title: 'Chatbots',
+        icon: <FaTabletAlt />
+    },
+    
     {
         id: 6,
         title: 'MLOps & Model Serving',
@@ -25,8 +25,13 @@ export const servicesData = [
     },
     {
         id: 2,
-        title: 'DevOps & CI/CD',
+        title: 'CI/CD',
         icon: <BiPencil /> 
+    },
+    {
+        id: 1,
+        title: ' Backend Development',
+        icon: <BiShoppingBag/>
     },
     {
         id: 3,
@@ -35,7 +40,7 @@ export const servicesData = [
     },
     {
         id: 7,
-        title: 'Observability & Monitoring',
+        title: 'NLU Services',
         icon: <FaCameraRetro />
     },
     {
@@ -48,16 +53,11 @@ export const servicesData = [
     //     title: 'Video Editing',
     //     icon: <FaVideo />
     // },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
-    // {
-    //     id: 11,
-    //     title: 'Ebook Writing',
-    //     icon: <FaTabletAlt />
-    // },
+    {
+        id: 10,
+        title: 'RAG Pipelines', 
+        icon: <BsClipboardData />
+    },
     // {
     //     id: 12,
     //     title: 'Audio Transcription',
