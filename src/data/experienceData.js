@@ -1,29 +1,29 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'PixelFyre Code Labs',
-        jobtitle: 'Senior Software Engineer',
+        company: 'Oncotelic',
+        jobtitle: 'Senior ML/MLOps Engineer',
         startYear: '2023',
         endYear: 'Present'
     },
     {
         id: 2,
-        company: 'Evolv',
-        jobtitle: 'Senior Backend Engineer',
+        company: 'InfoStack',
+        jobtitle: 'Senior AI Software Engineer',
         startYear: '2020',
         endYear: '2023'
     },
     {
         id: 3,
-        company: 'Infinitive',
+        company: 'SlashNext',
         jobtitle: 'Senior Full Stack Engineer',
         startYear: '2017',
         endYear: '2020'
     },
     {
         id: 4,
-        company: 'Three Point Trun',
-        jobtitle: 'Backend Engineer',
+        company: 'Algo.ai',
+        jobtitle: 'AI Software Engineer',
         startYear: '2015',
         endYear: '2017'
     },
